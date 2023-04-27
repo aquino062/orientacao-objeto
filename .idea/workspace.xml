@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33d2e6a-45b7-4fce-b567-be55642dbfa2" name="Changes" comment="" />
+    <list default="true" id="f33d2e6a-45b7-4fce-b567-be55642dbfa2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/exercicio-01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-01/src/main/java/org/example/pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-01/src/main/java/org/example/pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-06/src/main/java/org/example/invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicio-06/src/main/java/org/example/invoice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/willian/orientacao-objeto/exercicio-01",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/willian/orientacao-objeto/exercicio-01&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\willian\orientacao-objeto\exercicios" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +68,7 @@
       <updated>1682521247283</updated>
       <workItem from="1682521249020" duration="36000" />
       <workItem from="1682599345030" duration="98000" />
+      <workItem from="1682599454559" duration="88000" />
     </task>
     <servers />
   </component>
