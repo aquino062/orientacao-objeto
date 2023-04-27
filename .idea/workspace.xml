@@ -23,6 +23,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/willian/orientacao-objeto/exercicio-01",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682521247283</updated>
       <workItem from="1682521249020" duration="36000" />
+      <workItem from="1682599345030" duration="98000" />
     </task>
     <servers />
   </component>
