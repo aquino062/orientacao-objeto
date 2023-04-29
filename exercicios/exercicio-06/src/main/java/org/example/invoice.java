@@ -44,7 +44,7 @@ public class invoice {
 
     public void setQuantidade(int quantidade) {
 
-        if(quantidade < 0) {
+        if (quantidade < 0) {
             this.quantidade = 0;
         } else {
 
