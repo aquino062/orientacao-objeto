@@ -17,7 +17,7 @@ public class bombaCombustivel {
         if (valor > quantidadeCombustivel) {
             System.out.println("Não há combustivel suficiente na bomba.");
         } else {
-            System.out.println("voce abasteceu " + qntsLitros + " litros de " + tipoCombustivel);
+            System.out.println("você abasteceu " + qntsLitros + " litros de " + tipoCombustivel);
             this.quantidadeCombustivel -= qntsLitros;
 
         }
@@ -30,7 +30,7 @@ public class bombaCombustivel {
             System.out.println("Não há combustivel suficiente na bomba.");
 
         } else {
-            System.out.println("voce abasteceu " + totalLitros + " litros de " + tipoCombustivel);
+            System.out.println("você abasteceu " + totalLitros + " litros de " + tipoCombustivel);
             this.quantidadeCombustivel -= totalLitros;
         }
     }
